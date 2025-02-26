@@ -1,0 +1,1 @@
+BitTorrent Protocol Simulation written in C++ using MPI for parallel processing. Models peer-to-peer file sharing with a tracker coordinating segment-based downloads and uploads. Implements multithreaded clients exchanging data dynamically while ensuring balanced load distribution. Uses MPI for parallel execution, enabling efficient and scalable decentralized file sharing.
